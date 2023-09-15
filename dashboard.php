@@ -11,7 +11,7 @@ if (!isset($_SESSION['id'])) {
 <html>
 <head>
     <title>Main Dashboard</title>
-    <!-- <link rel="stylesheet" href="dashboard.css"> -->
+    
     <style>
         div.heading{
             text-align: center;
