@@ -69,7 +69,7 @@ overflow: hidden;
     background-color: #eee;; 
    }
    </style>
-    <!-- Include any necessary CSS styles or scripts here -->
+   
 </head>
 <body>
 <section style="background-color: #eee;">
