@@ -43,12 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html>
 <head>
     <title>Delete Product</title>
-    <!-- <script>
-    function confirmDelete(product_name, product_id) {
-        return confirm("Are you sure you want to delete the vendor '" + product_name + "'?");
-    } -->
-</script>
-    <!-- Include any necessary CSS styles or scripts here -->
+    
 </head>
 <body>
     <div class="container">
