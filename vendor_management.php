@@ -183,10 +183,5 @@ $result = mysqli_query($connection, $query);
         </div>
     </div>
    
-
-<!-- Vendor Management Content -->
-
-
-
 </body>
 </html>
