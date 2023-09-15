@@ -30,8 +30,6 @@ if (!$vendorResult || !$productResult) {
 <head>
     <title>Dashboard</title>
     
-    
-    <!-- Add your CSS styling here -->
 </head>
 <body>
     <div class="container mt-4">
@@ -84,8 +82,5 @@ if (!$vendorResult || !$productResult) {
         </div>
     </div>
 
-    <!-- Vendor Management Content -->
-
-    <!-- Add your JavaScript and other content here -->
 </body>
 </html>
