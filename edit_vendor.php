@@ -11,7 +11,7 @@ if (!isset($_SESSION['id'])) {
     exit();
 }
 
-// Include your database connection code here
+
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $id = $_POST["id"];
@@ -174,7 +174,7 @@ overflow: hidden;
 </div>
 </section>
 
-<!-- Link to go back to Vendor Management -->
+
 
 
 </body>
